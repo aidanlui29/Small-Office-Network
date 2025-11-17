@@ -1,4 +1,4 @@
-# Small Office Network Project – Cisco Packet Tracer  
+# Small Office Network – Cisco Packet Tracer  
 
 ## Objective  
 The Small Office Network Project was created to design and configure a small enterprise network using **Cisco Packet Tracer**. The goal was to simulate a realistic office environment with multiple departments, implement VLAN segmentation, enable DHCP and DNS automation, and provide secure Internet access through NAT and ACLs. This project demonstrates an understanding of **network infrastructure, routing and switching, and enterprise-level service management**.  
