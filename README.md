@@ -32,7 +32,7 @@ The Small Office Network Project was created to design and configure a small ent
 8. Verified DNS name resolution and email communication between internal and external domains.  
 9. Documented all configurations and testing results for scalability and troubleshooting.  
 
-## Screenshots  
+## Screenshot 
 
 ### Network Topology 
 ![Cisco Packet Tracer Topology](topology.png)  
